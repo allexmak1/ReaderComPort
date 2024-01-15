@@ -2,7 +2,7 @@
 
 Desctop приложение на C#(WinForms) для чтения и отправки 6 байтных сообщений в COM порт.
 
-![Screnshot](https://github.com/allexmak1/ReaderComPort/blood/main/image/image.png)
+![Screnshot](https://github.com/allexmak1/ReaderComPort/blob/main/image/image.png)
 
 ## FAQ
 
